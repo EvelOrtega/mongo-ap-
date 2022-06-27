@@ -1,0 +1,19 @@
+[
+    {
+        "nome": "fulano",
+        "sobrenome": "ciclano",
+        "genero": "masculino",
+        "cpf": "123456789-00",
+        "dataNascimento": "01/01/1990",
+        "email": "user@email.com",
+        "senha": "senha123",
+        "salt": "",
+        "rua": "rua das alamedas",
+        "numero": 142,
+        "cep": "00000000",
+        "telefone": "(00) 121231213",
+        "status": true,
+        "typeUser": "normal",
+        "courses": ""
+      }
+]
